@@ -1,0 +1,33 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.exp
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+*.pdb
+*.pch
+*.recipe
+*.log
+*.res
+*.tlog
+old/
+*FileListAbsolute.txt
+*.zip
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.old
+*.vs
